@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Volodya201
+- 👀 I’m interested in web, desktop and disocrd bots programing 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Vue.js, discord.js, node.js, nest.js
+- 💞️ I’m looking to collaborate on cool projects (will be happy if someone offer)
+- 📫 How to reach me: v_vov4ik201 (disocrd), @V_vov4ik_V (telegram)
+- 😄 Pronouns: hi/him
+- ⚡ Fun fact: learning programing since 9 years, born in 2011
